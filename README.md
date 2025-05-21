@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm MANOJKUMAR P</h1>
 <img src="https://public-resources.cdn.magazord.com.br/assets/global/manutencao/manutencao.gif" alt="">
-<h3 align="center">A passionate Python Fullstack developer from India</h3>
+<h3 align="center">A passionate MERN stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Manojkumar0302P&label=Profile%20views&color=0e75b6&style=flat" alt="manojkumar0302p" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojkumar0302p" alt="manojkumar0302p" /></a> </p>
 
-- 🌱 I’m currently learning **python fullstack course**
+- 🌱 I’m currently learning **MERN stack course**
 
-- 💬 Ask me about **C,C++,Python**
+- 💬 Ask me about **C,C++,Python,JAVASCRIPT,SQL,MANGODB,REACTJS,NODEJS,EXPRESSJS**
 
 - 📫 How to reach me **manojkumarvel2@gmail.com**
 
